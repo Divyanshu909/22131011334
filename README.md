@@ -27,7 +27,6 @@
 | View             | Screenshot               |
 |------------------|---------------------------|
 | Desktop Form     | ![Form](./screenshots/desktop-form.png) |
-| Mobile Form      | ![Form Mobile](./screenshots/mobile-form.png) |
 | Stats View       | ![Stats](./screenshots/stats.png) |
 | Redirect Handler | ![Redirect](./screenshots/redirect.png) |
 
